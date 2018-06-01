@@ -1,2 +1,2 @@
 # apidemoqa
-A sample REST API for Learning from QA perspective
+REST Api Demo created by QA Team
